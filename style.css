@@ -1,16 +1,16 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
-	background: red;
+	background: blue;
 }
 
 #logo {
 	height: 100px;
 	width: 100px
-
 }
 
 .container {
+	color: white;
 	display: flex;
 	align-items: center;
 	justify-content: center;
